@@ -1,0 +1,10 @@
+.navbar-brand img {
+  width: 40px; /* Adjust the logo size */
+}
+.navbar-nav .nav-link {
+  font-size: 16px;
+  color: #333;
+}
+.navbar-toggler-icon {
+  color: black;
+}
