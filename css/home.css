@@ -1,5 +1,6 @@
 .navbar-brand img {
-  width: 40px; /* Adjust the logo size */
+  width: 50%; /* Adjust the logo size */
+  height: 70px;
 }
 .navbar-nav .nav-link {
   font-size: 16px;
@@ -7,4 +8,40 @@
 }
 .navbar-toggler-icon {
   color: black;
+}
+.hero-logo
+{
+  margin-top: 0px;
+}
+div ul{
+  margin-left: -20px;
+  padding: 2%;
+}
+.nav-shop
+{
+  /* border: 1px solid red; */
+  padding-left: 400px;
+  display: flex;
+  justify-content: end;
+}
+.home-img
+{
+  /* border: 1px solid green; */
+  width: 100%;
+}
+.home-img img
+{
+  cursor: pointer;
+}
+.nav-item a:hover
+{
+font-weight:500;
+}
+@media (min-width:576px) 
+{
+ .home-img
+ {
+  height: 400px;
+  object-fit: cover;
+ } 
 }
