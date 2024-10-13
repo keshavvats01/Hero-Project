@@ -45,3 +45,22 @@ font-weight:500;
   object-fit: cover;
  } 
 }
+.home-img h1
+{
+  margin-top: 30px;
+  margin-left: 160px;
+}
+.section 
+{
+  border: 1px solid grey;
+  height: 451px;
+}
+.cards
+{
+  cursor: pointer;
+  display:inline-block;
+  margin: 2%;
+  /* border: 1px solid grey; */
+  width: 17%;
+  height: 150px;
+}
